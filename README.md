@@ -33,7 +33,7 @@
 ## 📌 **Projects**
 ### **Explore Projects by Category**
 [Ecommerce Sales Analysis using SQL](https://github.com/mohit-kumar8/ecommerce-sale-analysis)
-[[Crm-Analysis-using_python]_(https://github.com/mohit-kumar8/Crm-Analysis)
+[Crm-Analysis-using_python]_(https://github.com/mohit-kumar8/Crm-Analysis)
 
     
 
