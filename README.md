@@ -33,8 +33,7 @@
 ## 📌 **Projects**
 ### **Explore Projects by Category**
 [Ecommerce Sales Analysis using SQL](https://github.com/mohit-kumar8/ecommerce-sale-analysis)  
-[![Python](https://img.shields.io/badge/Python-green)](https://github.com/sampath-kothapalli/Portfolio?tab=readme-ov-file#python)  
-[![Tableau](https://img.shields.io/badge/Tableau-orange)](https://github.com/sampath-kothapalli/Portfolio?tab=readme-ov-file#tableau)  
+
 ---
 
 ## 💡 **Skills**
